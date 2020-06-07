@@ -1,0 +1,68 @@
+# 译制:noptia
+# Options
+worldeditcuife3.gui.options.title=§fWorldEdit §2CUI§f 3 Forge Edition
+worldeditcuife3.gui.options.description=WorldEdit 的客户端界面
+worldeditcuife3.gui.options.general=§n一般 :
+worldeditcuife3.gui.options.general.wecui.enable=WorldEdit §2CUI§f 3
+worldeditcuife3.gui.options.general.wecui.enable.tooltip=启用或禁用 WorldEdit §2CUI§f 3
+worldeditcuife3.gui.options.general.cui.enable=WorldEdit 渲染器
+worldeditcuife3.gui.options.general.cui.enable.tooltip=启用或禁用 WorldEdit 渲染器
+worldeditcuife3.gui.options.general.distance.enable=距离渲染器
+worldeditcuife3.gui.options.general.distance.enable.tooltip=启用或禁用距离渲染器
+worldeditcuife3.gui.options.general.chunk.enable=区块渲染器
+worldeditcuife3.gui.options.general.chunk.enable.tooltip=启用或禁用区块渲染器
+worldeditcuife3.gui.options.cui=§nWorldEdit 选区
+worldeditcuife3.gui.options.cui.enable=激活或停用
+worldeditcuife3.gui.options.cui.enable.tooltip=激活或停用选区
+worldeditcuife3.gui.options.cui.cuboid=§n矩形选区(cuboid)
+worldeditcuife3.gui.options.cui.cuboid.first=第一个点
+worldeditcuife3.gui.options.cui.cuboid.second=第二个点
+worldeditcuife3.gui.options.cui.cuboid.grid=网格
+worldeditcuife3.gui.options.cui.cuboid.edge=边界
+worldeditcuife3.gui.options.cui.cylinder=§n圆柱选区(cyl)
+worldeditcuife3.gui.options.cui.cylinder.center=中心点
+worldeditcuife3.gui.options.cui.cylinder.top=上层
+worldeditcuife3.gui.options.cui.cylinder.middle=中层
+worldeditcuife3.gui.options.cui.cylinder.bottom=底层
+worldeditcuife3.gui.options.cui.ellipsoid=§n椭圆选区(ellipsoid)
+worldeditcuife3.gui.options.cui.ellipsoid.main=主体
+worldeditcuife3.gui.options.cui.ellipsoid.center=圆心
+worldeditcuife3.gui.options.cui.ellipsoid.radx=X轴
+worldeditcuife3.gui.options.cui.ellipsoid.rady=Y轴
+worldeditcuife3.gui.options.cui.ellipsoid.radz=Z轴
+worldeditcuife3.gui.options.cui.convex=§n锥型选区(convex)
+worldeditcuife3.gui.options.cui.convex.main=第一点
+worldeditcuife3.gui.options.cui.convex.secondary=连接点
+worldeditcuife3.gui.options.cui.convex.line=线
+worldeditcuife3.gui.options.cui.polygon=§n多边形选区(poly)
+worldeditcuife3.gui.options.cui.polygon.main=连接点
+worldeditcuife3.gui.options.cui.polygon.grid=网格
+worldeditcuife3.gui.options.distance=§n测距仪
+worldeditcuife3.gui.options.distance.enable=启用或禁用
+worldeditcuife3.gui.options.distance.enable.tooltip=启用或禁用测距仪
+worldeditcuife3.gui.options.distance.distance=距离
+worldeditcuife3.gui.options.chunk=§n区块显示器
+worldeditcuife3.gui.options.chunk.chunk=区块
+worldeditcuife3.gui.options.chunk.grid=网格
+worldeditcuife3.gui.options.chunk.height=高度指示器
+
+# Keys
+worldeditcuife3.key.main_category=WorldEdit §2CUI§f 3
+worldeditcuife3.key.cui.options=CUI设置
+worldeditcuife3.key.cui.toggle.visibility=启用或禁用CUI显示
+worldeditcuife3.key.cui.clear.selection=清除 WorldEdit 选区
+worldeditcuife3.key.chunk.toggle.visibility=开关区块可见性
+worldeditcuife3.key.distance.toggle.visibility=开关距离测量器
+
+# Distance renderer
+worldeditcuife3.distance.renderer.name=测距仪
+worldeditcuife3.distance.renderer.mode.off=关
+worldeditcuife3.distance.renderer.mode.simple=简单
+worldeditcuife3.distance.renderer.mode.complex=高级
+worldeditcuife3.distance.renderer.far=太远了
+
+# Chunk renderer
+worldeditcuife3.Chunk.renderer.name=区块显示器
+worldeditcuife3.Chunk.renderer.mode.off=关
+worldeditcuife3.Chunk.renderer.mode.surround=环绕
+worldeditcuife3.Chunk.renderer.mode.complete=完整
